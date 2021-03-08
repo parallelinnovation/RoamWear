@@ -17,8 +17,8 @@ import markdown2 as md2 # The file format for notes.
 import sqlite3 # To store the database.
 import re # Regular expressions.
 import uuid # Module to generate an ID tag. 
-
 import random
+
 #480x480 is the correct resolution for the Vuzix Blade
 Window.size = (480,480)
 #Window.clearcolor = (0, 0, 0, 0)
