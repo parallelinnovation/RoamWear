@@ -1,6 +1,8 @@
 # RoamWear
 RoamWear is a personal knowledge management system, similar to [Roam Research](https://roamresearch.com/), made specifically for Android smartglasses such as the Vuzix Blade. (Work in progress)
 
+![Diagram showing how the app could be used](https://i.imgur.com/N3TSYsQ.png)
+
 ## Introduction
 
 The ultimate goal of this application is to provide the ability to take, organize, and retrieve notes using the Zettelkasten method on a pair of **smartglassess** while on-the-go, or for situations where you can't access a smartphone or computer. With smartglasses, it gives users hands-free access to their information. Paired with a wearable keyboard such as the open-source [Palm Pro BLE Keyboard](https://www.parallelinnov.com/palm-pro-wearable-keyboard/), it allows for the ability to take notes and control the application as well. This program is aimed to have a simple UI that can capture information in the same powerful format that personal knowledge management systems such as Roam Research or Obsidian uses. It should store files as Github-flavoured markdown so that data can be interchangable across these platforms. 
