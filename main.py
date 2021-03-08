@@ -121,10 +121,10 @@ LinkFinder(TextFromEditor)
 def CreateNote(NoteContent):
 	variable_entry(NoteContent)
 
-def UpdateNote():
+def UpdateNote(): #TODO
 	pass
 
-def RemoveBacklink():
+def RemoveBacklink(): #TODO
 	pass
 
 RoamWearMain().run()
