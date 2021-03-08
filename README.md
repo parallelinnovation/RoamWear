@@ -7,7 +7,7 @@ The ultimate goal of this application is to provide the ability to take, organiz
 
 ## Device Specifications 
 
-The [Vuzix Blade](https://www.vuzix.com/products/blade-smart-glasses-upgraded) will be used as the platform for the first version. It has a display resolution of 480x480 and runs on an ARM Cortex-A53 processor. 
+The [Vuzix Blade](https://www.vuzix.com/products/blade-smart-glasses-upgraded) will be used as the platform for the first version. It has a display resolution of 480x480 and runs on an ARM Cortex-A53 processor. The OS is a slightly modified Android Lolipop v5.1. 
 
 ## Proposed Design
 
