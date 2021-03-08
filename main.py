@@ -103,7 +103,7 @@ print("Note name: " + NameType.N_Name("ththth"))
 
 #In the editor, this is the start of the mechanism that knows that can find links in between [[square brackets]].
 # The variable 'matches' represents the outputted link. 
-TextFromEditor = "[[motivation]] <is related to> [[volition]] somehow" #Just a general example.
+TextFromEditor = "[[motivation]] <<is related to>> [[volition]] somehow" #Just a general example.
 
 def LinkFinder(inputValue):
 	#print(inputValue)
