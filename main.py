@@ -96,11 +96,8 @@ class NameType(): #Returns whatever note type you want to use. notefilename is t
 		id = str(uuid.uuid1()) + "---" + str(NoteName)
 		return(id)
 '''
-
 print("File name: " + NameType.N_FileName())
 print("Note name: " + NameType.N_Name("ththth"))
-
-
 
 #----------------Editor section--------------------#
 
