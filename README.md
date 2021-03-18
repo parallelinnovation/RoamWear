@@ -15,6 +15,8 @@ The [Vuzix Blade](https://www.vuzix.com/products/blade-smart-glasses-upgraded) w
 
 Vuzix provides detailed UX design guidlines and other resources for developing on the Blade in their developer section. You can easily sign up [Here](https://www.vuzix.com/Developers) to become a Vuzix developer. 
 
-I plan on using Python and [KivyMD](https://github.com/kivymd/KivyMD) instead of Android Studio, only because my programming knowledge is limited to python at the moment. I'm not sure yet if this will even work for developing on the Blade, since I made a simple test app, tried to install it on the Blade, and it just crashes. If I can't get it to work with Python, I guess I need to learn Java and xml. Kotlin is also a possibility. 
+I plan on using Python and [KivyMD](https://github.com/kivymd/KivyMD). 
+So far, it has 3 main screens: The home screen which desplays recent files, the editor, and the finder screen to search files. In the editor, there is also a bottom screen that opens up to show the backlinks. I plan on adding an inline auto-suggest feature to the editor that prompts when you start typing the start of a link "[[". I still need to figure out how to navigate the selection using arrow and keyboard controls instead of using touch buttons, but for now I'm using buttons to get a structure going. The finder screen needs work to comfortablly search with. There will also be an additional settings screen where I plan on having an option to save the database as markdown files.
+
 
 As a public Roam API is not currently available, the plan is to store the files locally on the device for now. 
